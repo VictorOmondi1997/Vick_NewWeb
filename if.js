@@ -1,0 +1,12 @@
+//Learning if and if ... Else statement in javascript
+let score = 1000;
+
+if (score > 1000){
+    score = score + 100
+}
+else if (score === 1000){
+    console.log("Almost")
+}
+else {
+    console.log("Score is:", score);
+}

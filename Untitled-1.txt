@@ -1,0 +1,10 @@
+Setting up a web page
+DOM Document Object Model defines how the data of a web page is organized and manipulated
+chaning text 
+HTML
+<p id="text-area"></p>
+JavaScript
+let paragraph = document.getElementByID('text-area');
+paragraph.innerText = "This isparagraph text..."
+Handling a button click
+removing and adding elements

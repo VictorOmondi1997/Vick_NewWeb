@@ -4,4 +4,6 @@ let person = {
     age: 32,
     partTime: false
 };
-// Passing Objects to functions
+console.log(person.name);
+console.log(person.age);
+console.log(person.partTime);
